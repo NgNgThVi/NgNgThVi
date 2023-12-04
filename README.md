@@ -61,10 +61,4 @@
 
 <br/>
 
-<div align="center">
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=NgNgThVi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
 <br/>
