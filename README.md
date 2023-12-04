@@ -12,7 +12,7 @@
  
  🔭 I’m currently a student at **FPT University**
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **AWS,React,NextJS and Dart**
 
  </div>
  
